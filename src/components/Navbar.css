@@ -1,0 +1,11 @@
+ 
+ .hideMenu{
+    left: -310px;
+    transition: all .2s ease-in-out;
+ }
+
+ .activeMenu{
+    left: 0;
+    transition: all .2s ease-in-out;
+ }
+
